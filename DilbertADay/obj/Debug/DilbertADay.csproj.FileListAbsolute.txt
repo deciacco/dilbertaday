@@ -1,0 +1,6 @@
+Z:\dotnet\DilbertADay\DilbertADay\bin\Debug\DilbertADay.exe.config
+Z:\dotnet\DilbertADay\DilbertADay\bin\Debug\DilbertADay.exe
+Z:\dotnet\DilbertADay\DilbertADay\bin\Debug\DilbertADay.pdb
+Z:\dotnet\DilbertADay\DilbertADay\obj\Debug\ResolveAssemblyReference.cache
+Z:\dotnet\DilbertADay\DilbertADay\obj\Debug\DilbertADay.exe
+Z:\dotnet\DilbertADay\DilbertADay\obj\Debug\DilbertADay.pdb

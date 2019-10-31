@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DilbertADay.exe.config
+bin\Debug\DilbertADay.exe
+bin\Debug\DilbertADay.pdb
+obj\Debug\DilbertADay.exe
+obj\Debug\DilbertADay.pdb
+bin\Release\DilbertADay.exe.config
+bin\Release\DilbertADay.exe
+bin\Release\DilbertADay.XmlSerializers.dll
+bin\Release\DilbertADay.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DilbertADay.exe
+obj\Release\DilbertADay.pdb
+obj\Release\DilbertADay.XmlSerializers.dll

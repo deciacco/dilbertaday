@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading;
+using System.IO;
+using System.Drawing;
+using System.Drawing.Imaging;
+using DilbertADay.com.esynaps.www;
+
+namespace DilbertADay
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            DailyDilbert wsDd;
+            Byte[] imageData;
+            MemoryStream strm;
+            Bitmap bmp;           
+
+            try
+            {
+                wsDd = new DailyDilbert();
+                imageData = wsDd.DailyDilbertImage();
+                strm = new MemoryStream(imageData);
+                bmp = new Bitmap(strm);
+                bmp.Save(Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory)
+                    + "\\dilbert.jpg",ImageFormat.Jpeg);
+                bmp.Dispose();
+                strm.Close();
+                wsDd.Dispose();
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex.Message);
+            }
+        }
+    }
+}

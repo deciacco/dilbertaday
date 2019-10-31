@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DilbertADay">
+</Property><Property Name="Solution File" Value="Z:\dotnet\DilbertADay\DilbertADay.sln">
+</Property><Property Name="User Options File" Value="Z:\dotnet\DilbertADay\DilbertADay.suo">
+</Property><Property Name="Date" Value="Friday, November 14, 2008">
+</Property><Property Name="Time" Value="10:04 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DilbertADay.sln" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DilbertADay.suo" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay.suo">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\DilbertADay.csproj" Description="Project file successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\DilbertADay.csproj">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Program.cs" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Program.cs">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Web References\com.esynaps.www\Reference.cs" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Web References\com.esynaps.www\Reference.cs">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\app.config" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\app.config">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Program.cs.sync" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Program.cs.sync">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Properties\Settings.settings" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Web References\com.esynaps.www\DailyDiblert.wsdl" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Web References\com.esynaps.www\DailyDiblert.wsdl">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\Web References\com.esynaps.www\Reference.map" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\Web References\com.esynaps.www\Reference.map">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\TRASH03.ICO" Description="File successfully backed up as Z:\dotnet\DilbertADay\Backup\DilbertADay\TRASH03.ICO">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\DilbertADay.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DilbertADay" Source="DilbertADay\DilbertADay.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DilbertADay.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DilbertADay.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DilbertADay" Source="DilbertADay\DilbertADay.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

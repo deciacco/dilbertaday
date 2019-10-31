@@ -1,0 +1,8 @@
+Z:\dotnet\DilbertADay\DilbertADay\bin\Release\DilbertADay.exe.config
+Z:\dotnet\DilbertADay\DilbertADay\obj\Release\DilbertADay.exe
+Z:\dotnet\DilbertADay\DilbertADay\obj\Release\DilbertADay.pdb
+Z:\dotnet\DilbertADay\DilbertADay\obj\Release\DilbertADay.XmlSerializers.dll
+Z:\dotnet\DilbertADay\DilbertADay\bin\Release\DilbertADay.exe
+Z:\dotnet\DilbertADay\DilbertADay\bin\Release\DilbertADay.XmlSerializers.dll
+Z:\dotnet\DilbertADay\DilbertADay\bin\Release\DilbertADay.pdb
+Z:\dotnet\DilbertADay\DilbertADay\obj\Release\ResolveAssemblyReference.cache
